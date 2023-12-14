@@ -1,0 +1,187 @@
+<!DOCTYPE html> 
+
+<html lang="en"> 
+
+<head> 
+
+    <meta charset="UTF-8"> 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+    <title>Website with Centered Big White Text</title> 
+
+    <style> 
+
+        body { 
+
+            background-image: url('a.jpg');  
+
+            background-size: cover; 
+
+            background-position: center; 
+
+            margin: 0; 
+
+            font-family: Arial, sans-serif;  
+
+            height: 100vh; 
+
+            display: flex; 
+
+            justify-content: center; 
+
+            align-items: center; 
+
+        } 
+
+  
+
+        .content { 
+
+            text-align: center; 
+
+            padding: 20px; 
+
+        } 
+
+  
+
+        h1 { 
+
+            font-size: 6em;  
+
+            color: #FFD580; 
+
+         } 
+
+  
+
+  
+
+h2 { 
+
+            font-size: 4em;  
+
+            color: #FFD580; 
+
+         } 
+
+  
+
+        p { 
+
+           font-size: 3em; 
+
+           color: #FFFFFF; 
+
+        } 
+
+    
+
+  
+
+<style> 
+
+        body { 
+
+            margin: 0; 
+
+            padding: 0; 
+
+            text-align: center; 
+
+            padding: 50px; 
+
+        } 
+
+  
+
+        #externalLink { 
+
+            position: fixed; 
+
+            top: 10px; 
+
+            right: 10px; 
+
+            display: inline-block; 
+
+            padding: 15px 30px; 
+
+            font-size: 1.2em; 
+
+            text-decoration: none; 
+
+            background-color: #FFA500;  
+
+            color: #ffffff;  
+
+            border-radius: 5px; 
+
+        } 
+
+    </style> 
+
+</head> 
+
+<body> 
+
+  
+
+    <a href="https://overwatch.blizzard.com/en-us/" target="_blank" id="externalLink">Visit Overwatch official website</a> 
+
+  
+
+</style> 
+
+  
+
+    <div class="content"> 
+
+        <h1>Overwatch</h1> 
+
+        <p>Overwatch is a game about chosing one of the 39 playable characters to compete against the other team. 
+
+           there are so many diffrent characters to choose from, every playable character is either a dps, support or tank depending on what there kit is.</p> 
+
+  
+
+      <h2>rolles</h2> 
+
+  
+
+       
+
+           <p>picking a role is important, under this text theres a vidio to help with that.</p> 
+
+  
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PepmRLZRQ_o?si=DAYCSgZMOyNKefG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+  
+
+<h2>objective</h2> 
+
+  
+
+<p>theres alot of objectives in Overwatch. whenever you load into a game one of the following objectives are choosen 
+
+   assault, escort, checkpoints and control point. they all have diffrent thing you need to do to win, but they all have 1 thing in common, 
+
+   kill and win over the enemy team. </p> 
+
+  
+
+<h2>gameplay</h2> 
+
+  
+
+<p>the game consists of killing the enemy team and do the objective before they do it. when u die u respawn, but u will have a littel time before you respawn and then u have to run back giving the enemy team good time to do the objective. there are 36 maps in overwatch all randomly choosen only depending on the objective. getting to know the maps are important so you know where to find healt regen items and know flanks. getting good takes practise, and overtime you will get good and it will be fun (untill u play ranked). 
+
+  
+
+  
+
+</body> 
+
+</html> 
